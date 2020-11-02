@@ -1,9 +1,9 @@
-<p align="center"><img src="docs/logo.png" width="200"/></p>
+<p align="center"><img src="/src/Assets/LogoTipo2.svg" width="200"/></p>
 
 ## Sozinho você aprende, junto você domina!
 `COOPs` é uma plataforma de aprendizado cooperativo entre estudantes universitários.
 
-* Criar e buscar por grupos de estudo com alocação automática de espaço de estudo na universidade
+* Criar e buscar grupos de estudo com alocação automática de espaço de estudo na universidade
 * Ambiente de perguntas e respostas para estudante da mesma instituição
 * Lista de eventos que acontecem na universidade
 
